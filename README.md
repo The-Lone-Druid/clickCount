@@ -1,5 +1,5 @@
 
-# clickCount()
+# clickCount() Pushed by VS Code
 ## A Modern way to count your clicks.
 A simple and user friendly counter which helps out in a lot of situations.
 
