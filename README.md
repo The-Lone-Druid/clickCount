@@ -4,4 +4,4 @@
 A simple and user friendly counter which helps out in a lot of situations.
 
 > Start using
-[clickCount()](https://duckduckgo.com "Click to visit our site").
+[clickCount()](https://the-lone-druid.github.io/clickCount-/ "Click to visit our site").
