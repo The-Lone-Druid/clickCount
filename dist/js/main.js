@@ -1,5 +1,12 @@
 // UI Variables
 const clickCountHolder = document.querySelector('#click-count');
+const customHeight = document.querySelector('.custom-vh');
+const navbarHeight = document.querySelector('nav').offsetHeight;
+const footerHeight = document.querySelector('footer').offsetHeight;
+
+console.log(navbarHeight);
+
+customHeight.style.height = `calc(100vh - ${navbarHeight + footerHeight}px)`;
 
 // Localstorage methods
 const commitToStorage = () => {
